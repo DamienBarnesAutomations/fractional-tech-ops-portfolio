@@ -1,0 +1,20 @@
+customer_name,product_name,SUM of Total_Revenue
+Ahern & Sons,Consulting (Hr),"1,440.00"
+Ahern & Sons,Software License (Annual),99.98
+Cork Food Co,Consulting (Hr),360.00
+Cork Food Co,Software License (Annual),49.99
+Dublin Tech,Custom Script Development,800.00
+Dublin Tech,Maintenance & Support,25.00
+Kildare Farm Supplies,Maintenance & Support,25.00
+Kildare Farm Supplies,Software License (Annual),49.99
+O'Malley Ltd,Consulting (Hr),240.00
+O'Malley Ltd,Maintenance & Support,50.00
+Shannon Logistics,Consulting (Hr),600.00
+Sligo Artisans,Custom Script Development,800.00
+Sligo Artisans,Maintenance & Support,75.00
+The Galway Bay Inn,Onboarding Setup,350.00
+The Galway Bay Inn,Software License (Annual),49.99
+Waterford Renewables,Consulting (Hr),240.00
+Waterford Renewables,Software License (Annual),49.99
+Wicklow Design Studio,Maintenance & Support,100.00
+Wicklow Design Studio,Onboarding Setup,350.00
